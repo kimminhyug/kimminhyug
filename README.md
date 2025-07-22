@@ -11,7 +11,7 @@ I love working with TypeScript, state management, and high-performance charting 
 - React, TypeScript, SCSS, Tailwind CSS
 
 ### 📊 Charting Libraries
-- [uPlot](https://github.com/leeoniya/uPlot), Chart.js, ApexCharts
+- [uPlot(대용량 대응용 차트)](https://github.com/leeoniya/uPlot), Chart.js, ApexCharts
 
 ### ⚙️ State & Data
 - Jotai, React Query
