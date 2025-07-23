@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm MinHyeock
 
-I'm a front-end developer who enjoys building real-time dashboards, UI tools, and visual interfaces.  
-I love working with TypeScript, state management, and high-performance charting libraries.
+프론트엔드 개발에서 사용자 경험과 성능은 타협할 수 없는 요소라고 생각합니다.
+자바스크립트의 기본 원리를 깊이 있게 이해하는 것이 문제 해결과 구조 설계의 핵심이라 믿고, 이를 바탕으로 실시간 대시보드와 UI 툴 등을 개발하고 있습니다.
 
 ---
 
@@ -31,7 +31,7 @@ I love working with TypeScript, state management, and high-performance charting 
   (A pivot table library)  
   [`GitHub`](https://github.com/kimminhyug/mhkim-pivot-table)
 
-- 📝 **note-card-ui** – 노드 형태의 ROW에 텍스트 입력 가능한 UI 컴포넌트  
+- 📝 **note-card-ui** – 노트 형태의 ROW에 텍스트 입력 가능한 UI 컴포넌트  
   (A UI component that allows text input in node-like rows)  
   [`GitHub`](https://github.com/kimminhyug/note-card-ui)
 
