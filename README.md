@@ -26,6 +26,7 @@
 - 🔌 **react-workflow-builder** – 회사 신규 프로젝트에서 사용하는 React Flow를 공부하며 시작한 프로젝트  
   (A project started to learn React Flow used in a new company project)  
   [`GitHub`](https://github.com/kimminhyug/react-workflow-builder)
+  [`Live Demo`](https://kimminhyug.github.io/react-workflow-builder/)
 
 - 📊 **mhkim-pivot-table** – 피벗 테이블 라이브러리  
   (A pivot table library)  
