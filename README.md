@@ -22,7 +22,7 @@
 ---
 
 ##  Projects (In Progress)
--  **nextjs-study** - next.js 를 공부할 경 시작한 프로젝트  
+-  **nextjs-study** - next.js 를 공부할 겸 시작한 프로젝트(현재는 이론만 정리 중입니다)
   [`GitHub`](https://github.com/kimminhyug/nextjs-study)
 
 -  **react-workflow-builder** – 회사 신규 프로젝트에서 사용하는 React Flow를 공부하며 시작한 프로젝트  
