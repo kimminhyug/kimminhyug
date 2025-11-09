@@ -22,26 +22,23 @@
 ---
 
 ##  Projects (In Progress)
+-  **nextjs-study** - next.js 를 공부할 경 심작한 프로젝트  
+  [`GitHub`](https://github.com/kimminhyug/nextjs-study)
 
 -  **react-workflow-builder** – 회사 신규 프로젝트에서 사용하는 React Flow를 공부하며 시작한 프로젝트  
-  (A project started to learn React Flow used in a new company project)  
   [`GitHub`](https://github.com/kimminhyug/react-workflow-builder)
   [`Live Demo`](https://kimminhyug.github.io/react-workflow-builder/)
 
 -  **mhkim-pivot-table** – 피벗 테이블 라이브러리  
-  (A pivot table library)  
   [`GitHub`](https://github.com/kimminhyug/mhkim-pivot-table)
 
 -  **note-card-ui** – 노트 컨셉이며 ROW 단위로 텍스트 입력 가능한 UI 컴포넌트  
-  (A UI component that allows text input in node-like rows)  
   [`GitHub`](https://github.com/kimminhyug/note-card-ui)
 
 -  **palMap** – 팰월드을 위한 팰 소개 템플릿 프로젝트  
-  (A template project introducing Pal for fans of Palworld)  
   [`GitHub`](https://github.com/kimminhyug/palMap)
 
 -  **three-device** – 사내 세미나 기술 소개 발표용 샘플 프로젝트  
-  (A sample project used for tech presentations in internal seminars)  
   [`GitHub`](https://github.com/kimminhyug/three-device)
 
 
