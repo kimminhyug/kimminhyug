@@ -19,6 +19,11 @@
 ###  UI Components & Layout
 - React Flow, Fluent UI, Headless UI, AG-Grid, TanStack Table, React Grid Layout
 
+### IDE
+
+- VS Code, Cursor
+
+
 ---
 
 ##  Projects (In Progress)
