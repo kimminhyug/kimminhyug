@@ -27,6 +27,8 @@
 ---
 
 ##  Projects (In Progress)
+-  **tailwind-headlessUI-test** - TailwindCSS, HeadlessUI 를 공부할 겸 시작한 프로젝트     
+  [`GitHub`](https://github.com/kimminhyug/tailwind-headlessUI-test)
 -  **nextjs-study** - next.js 를 공부할 겸 시작한 프로젝트(현재는 이론만 정리 중입니다)  
   [`GitHub`](https://github.com/kimminhyug/nextjs-study)
 
