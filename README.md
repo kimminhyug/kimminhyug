@@ -29,6 +29,7 @@
 ##  Projects (In Progress)
 -  **tailwind-headlessUI-test** - TailwindCSS, HeadlessUI 를 공부할 겸 시작한 프로젝트     
   [`GitHub`](https://github.com/kimminhyug/tailwind-headlessUI-test)
+
 -  **nextjs-study** - next.js 를 공부할 겸 시작한 프로젝트     
   [`GitHub`](https://github.com/kimminhyug/nextjs-study)
   [`Live Demo`](https://nextjs-study-gold.vercel.app/dashboard/traffic)
@@ -39,6 +40,7 @@
 
 -  **mhkim-pivot-table** – 피벗 테이블 라이브러리  
   [`GitHub`](https://github.com/kimminhyug/mhkim-pivot-table)
+  [`NPM`](https://www.npmjs.com/package/mhkim-pivot-table)  
 
 -  **note-card-ui** – 노트 컨셉이며 ROW 단위로 텍스트 입력 가능한 UI 컴포넌트  
   [`GitHub`](https://github.com/kimminhyug/note-card-ui)
