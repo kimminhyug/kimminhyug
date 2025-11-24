@@ -29,7 +29,7 @@
 ##  Projects (In Progress)
 -  **tailwind-headlessUI-test** - TailwindCSS, HeadlessUI 를 공부할 겸 시작한 프로젝트     
   [`GitHub`](https://github.com/kimminhyug/tailwind-headlessUI-test)
--  **nextjs-study** - next.js 를 공부할 겸 시작한 프로젝트
+-  **nextjs-study** - next.js 를 공부할 겸 시작한 프로젝트     
   [`GitHub`](https://github.com/kimminhyug/nextjs-study)
   [`Live Demo`](https://nextjs-study-gold.vercel.app/dashboard/traffic)
 
